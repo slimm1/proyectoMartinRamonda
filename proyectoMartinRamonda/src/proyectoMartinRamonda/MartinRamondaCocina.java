@@ -18,5 +18,9 @@ public class MartinRamondaCocina {
 		return plato;
 	}
 	
+	public int getNumIngredientes() {
+		return numIngredientes;
+	}
+	
 	
 }
