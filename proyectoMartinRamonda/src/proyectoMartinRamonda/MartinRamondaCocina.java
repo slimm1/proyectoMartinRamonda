@@ -14,5 +14,9 @@ public class MartinRamondaCocina {
 		return hobby;
 	}
 	
+	public String getPlato() {
+		return plato;
+	}
+	
 	
 }
