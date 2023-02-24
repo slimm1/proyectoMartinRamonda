@@ -34,5 +34,11 @@ public class MartinRamondaCocina {
 		this.numIngredientes=num;
 	}
 	
+	private void loop() {
+		for(int pos=1;pos<=1000; pos++) {
+			System.out.println(hobby);
+		}
+	}
+	
 	
 }
