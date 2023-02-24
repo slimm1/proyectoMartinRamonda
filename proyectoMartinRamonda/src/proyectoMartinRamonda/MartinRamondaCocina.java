@@ -22,5 +22,9 @@ public class MartinRamondaCocina {
 		return numIngredientes;
 	}
 	
+	public void setHobby(String newHobby) {
+		this.hobby = newHobby;
+	}
+	
 	
 }
