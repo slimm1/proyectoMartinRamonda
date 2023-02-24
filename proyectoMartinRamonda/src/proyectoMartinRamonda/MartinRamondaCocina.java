@@ -30,5 +30,9 @@ public class MartinRamondaCocina {
 		this.plato = newPlato;
 	}
 	
+	public void setNumIngredientes(int num) {
+		this.numIngredientes=num;
+	}
+	
 	
 }
