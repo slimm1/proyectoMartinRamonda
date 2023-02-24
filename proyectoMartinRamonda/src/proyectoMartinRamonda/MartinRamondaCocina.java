@@ -26,5 +26,9 @@ public class MartinRamondaCocina {
 		this.hobby = newHobby;
 	}
 	
+	public void setPlato(String newPlato) {
+		this.plato = newPlato;
+	}
+	
 	
 }
